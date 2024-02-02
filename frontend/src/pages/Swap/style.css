@@ -1,0 +1,51 @@
+  .container_Swap {
+    border: 1px solid white;
+    padding: 20px;
+    align-items: center;
+    margin: 45px auto;
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+  }
+  .depositTxt{
+    text-align: left;
+  }
+  .contribute-amount {
+    background-color: transparent;
+    border: none;
+    font-size: 1.3rem;
+    color: var(--text-color);
+    border-bottom: 1px solid var(--text-color);
+  }
+
+.input_flex{
+  display:flex;
+}
+
+.input1{
+  float:left;
+}
+
+.input2{
+  margin:0;
+}
+
+.input3{
+  float:right;
+}
+  .buttonbtm{
+    width:100%;
+  }
+
+  ::placeholder {
+    color: var(--placeholder-color);
+  }
+  
+  .eth {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .estimated-pot {
+    margin: 1rem 0;
+  }

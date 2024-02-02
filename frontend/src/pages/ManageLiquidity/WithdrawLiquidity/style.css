@@ -1,0 +1,10 @@
+.ownings {
+    margin: 50px 0 30px 0;
+    font-size: 1.3em;
+  }
+  
+  .remove_liquiditybtn{
+    margin: auto;
+    width:30%;
+    padding-bottom: 20px;
+  }

@@ -1,0 +1,29 @@
+.App {
+  margin: auto;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  color: black;
+}
+
+.eth_logo{
+  text-align: right;
+  margin-top: 5px;
+  margin-right: 20px;
+}
+
+.potCoin, .display_menu {
+  text-align: center;
+  padding: 10px;
+}
+
+.space-with{
+  margin-right: 10px;
+}
+
+.space-with-left{
+  margin-left: 10px;
+}
+
+.bg-color-la{
+  background-color: #E7E9EC;
+}

@@ -1,0 +1,9 @@
+.wallet-info {
+    line-height: 2.5rem;
+   
+  }
+.walletdisplay{
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+}
